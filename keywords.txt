@@ -1,12 +1,12 @@
 #######################################
-# Syntax Coloring Map For PID Library
+# Syntax Coloring Map For PDF Library
 #######################################
 
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
 
-PID	KEYWORD1
+PDF	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)

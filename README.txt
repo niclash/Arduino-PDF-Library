@@ -1,6 +1,8 @@
 ***************************************************************
-* Arduino PID Library - Version 1.1.1
-* by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
+* Arduino PDF Library - Version 1.1.1
+* Niclas Hedhman, niclas@hedhman.org
+*
+* derived from PID Library by Brett Beauregard <br3ttb@gmail.com> brettbeauregard.com
 *
 * This Library is licensed under a GPLv3 License
 ***************************************************************
